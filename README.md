@@ -1,5 +1,5 @@
 
-![logo](https://github.com/TheNaziaPathan/rarity_demo1/assets/113630451/868de257-61a0-4260-9bc1-173097a331fb)
+![logo](https://github.com/GMELab/RARity/blob/main/logo.png)
 
 
 
@@ -26,7 +26,7 @@ To reduce the influence of long-range LD between variants that would otherwise i
 
 The following figure provides a summary of the RARity pipeline:
 
-![rv flow v2](https://github.com/TheNaziaPathan/rarity_demo1/assets/113630451/6052132e-6ce9-4c16-a50b-91733a2697af)
+![RARity pipeline](https://github.com/GMELab/RARity/blob/main/rv%20flow%20v2.png)
 
 #### Figure 1: Summary of the Rare variant heritability (RARity) estimator pipeline. 
 The RARity pipeline constitutes pre-treatment of the genotype and the phenotype data, followed by application of the statistical model to each block, and finally estimation of the total heritability from all blocks. *The model may be modified to prioritize variants by implementing LD clumping instead of pruning. **Adjustment of medications may involve implementing correction factors or removal of individuals using the medications. MAF = minor allele frequency, MAC = minor allele count, LD = linkage disequilibrium, SD = standard deviation, PCs = principal components. 
