@@ -28,6 +28,9 @@ The following figure provides a summary of the RARity pipeline:
 
 ![rv flow v2](https://github.com/TheNaziaPathan/rarity_demo1/assets/113630451/6052132e-6ce9-4c16-a50b-91733a2697af)
 
+#### Figure 1: Summary of the Rare variant heritability (RARity) estimator pipeline. 
+The RARity pipeline constitutes pre-treatment of the genotype and the phenotype data, followed by application of the statistical model to each block, and finally estimation of the total heritability from all blocks. *The model may be modified to prioritize variants by implementing LD clumping instead of pruning. In addition, the pruning parameters are dependent on the selection of common vs rare variants for the analysis. **Adjustment of medications may involve implementing correction factors or removal of individuals using the medications. MAF = minor allele frequency, MAC = minor allele count, LD = linkage disequilibrium, SD = standard deviation, PCs = principal components. 
+
 # Demo Requirements  <a name="2"></a>
 
 ## Hardware Requirements (Full-scale version)  <a name="2a"></a>
@@ -130,7 +133,7 @@ GNU General Public License v3.0
 
 ### *Nature Communications*
 
-Under review.
+Provisionally accepted.
 
 # Contact Information  <a name="7"></a>
 
