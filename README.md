@@ -45,7 +45,7 @@ Requires a unix-like virtual environment supporting a minimum of 250GB RAM space
 | Program | Description | Download |
 | --- | --- | --- |
 | BASH (≥ 5.0) | a unix shell and command language | [https://ubuntu.com/download/desktop](https://www.gnu.org/software/bash/) |
-| R (≥ 3.6.3) or newer | R programming language | https://cran.r-project.org/ |
+| R (≥ 3.6.0) or newer | R programming language | https://cran.r-project.org/ |
 
 #### Essential Dependencies: R packages
 | R package | Install | Reference |
