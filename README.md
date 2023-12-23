@@ -3,7 +3,7 @@
 
 
 
-Rare variant heritability (RARity) estimator is a framework to assess rare variant heritability (_h_<sup>_2_</sup><sub>RV</sub>) without assuming a particular genetic architecture, in a fast, accurate, and unbiased manner. It enables computation of both gene-level and exome-wide heritability estimates of continuous traits.
+A methodoligal framework to assess rare variant heritability (_h_<sup>_2_</sup><sub>RV</sub>) without assuming a particular genetic architecture, in a fast, accurate, and unbiased manner. It enables computation of both gene-level and exome-wide heritability estimates of continuous traits.
 
 # Table of Contents
 - [Method Overview](#1)
