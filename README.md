@@ -133,7 +133,7 @@ GNU General Public License v3.0
 
 ### *Nature Communications*
 
-Provisionally accepted.
+Pathan, N., Deng, W.Q., Di Scipio, M. et al. A method to estimate the contribution of rare coding variants to complex trait heritability. Nat Commun 15, 1245 (2024). https://doi.org/10.1038/s41467-024-45407-8
 
 # Contact Information  <a name="7"></a>
 
